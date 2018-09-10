@@ -2,6 +2,8 @@
 
 def loop_iterator(number_of_times)
   counter = 7
+  loop do
+    
   
   
   # Code your solution here using the "loop" keyword to puts out the below phrase
